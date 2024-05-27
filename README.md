@@ -47,8 +47,7 @@
 ## 프로젝트 상세정보
 아주대학교 SW캡스톤디자인 과목의 일환으로, 5인으로 구성된 i-dear 팀이 2024년 3월부터 6월까지 진행하였습니다. <br/>
 아래의 링크에서 보다 자세하게 프로젝트를 확인할 수 있습니다.
-<br/>
-<br/>
+- softcon: linklinklinklinklinklinklinklinklink (아주대학교 소프트콘)
 <br/>
 
 
