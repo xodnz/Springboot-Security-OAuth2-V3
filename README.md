@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/NGINX RTMP-009639?style=flat&logo=NGINX&logoColor=white" />
     <img src="https://img.shields.io/badge/Shell-5391FE?style=flat&logo=powershell&logoColor=white" />
     <br/>    
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
     <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/minio-C72E49?style=flat&logo=minio&logoColor=white" />
 <br/>
