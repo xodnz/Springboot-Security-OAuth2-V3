@@ -1,12 +1,12 @@
 # Sync-D
 
+<p>
+  <img src="https://github.com/i-Dear/sync-d-backend/assets/128214672/042dd01b-7502-402a-9270-1f5b7e6dcf80" width="720" height="240">
+</p>
 
 ## 프로젝트 개요
 'Sync-D'(이하 '싱크대')는 소규모 개발 팀을 위한 실시간 아이디어 기획 협업 플랫폼입니다. <br/>
 '싱크대'는 12단계에 걸쳐 아이디어를 기획하고, 팀원 간 생각을 동기화할 수 있는 구체적인 가이드라인을 제공합니다.
-<p>
-  <img src="https://github.com/i-Dear/sync-d-backend/assets/128214672/042dd01b-7502-402a-9270-1f5b7e6dcf80" width="720" height="240">
-</p>
 <br/>
 <br/>
 
