@@ -12,17 +12,12 @@
 	 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
     <br/>
     <img src="https://img.shields.io/badge/Java-47A248?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring WebFlux-6DB33F?style=flat&logo=Spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/NGINX RTMP-009639?style=flat&logo=NGINX&logoColor=white" />
-    <img src="https://img.shields.io/badge/Shell-5391FE?style=flat&logo=powershell&logoColor=white" />
-    <br/>    
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-    <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/minio-C72E49?style=flat&logo=minio&logoColor=white" />
+
 <br/>
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
- 	<img src="https://img.shields.io/badge/openstack-ED1944?style=flat&logo=openstack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
+	<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white" />
 
 </div>
 <br>
