@@ -7,11 +7,15 @@
 <p align="center">
   <img src="https://github.com/i-Dear/sync-d-backend/assets/128214672/042dd01b-7502-402a-9270-1f5b7e6dcf80">
 </p>
+<br/>
+<br/>
 
 
 ## 프로젝트 상세정보
 아주대학교 SW캡스톤디자인 과목의 일환으로, 5인으로 구성된 i-dear 팀이 2024년 3월부터 6월까지 진행하였습니다. <br/>
 아래의 링크에서 보다 자세하게 프로젝트를 확인할 수 있습니다.
+<br/>
+<br/>
 
 
 ## 프로젝트 레포지토리
@@ -20,6 +24,8 @@
 - frontend: https://github.com/i-Dear/sync-d-frontend
 - backend: https://github.com/i-Dear/sync-d-backend
 - devops: https://github.com/i-Dear/sync-d-manifests
+<br/>
+<br/>
 
 
 ## 팀 소개
